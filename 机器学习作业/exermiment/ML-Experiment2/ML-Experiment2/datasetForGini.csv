@@ -1,0 +1,16 @@
+age,work,house,credit,class
+youth,no,no,common,refuse
+youth,no,no,good,refuse
+youth,yes,no,good,agree
+youth,yes,yes,common,agree
+youth,no,no,common,refuse
+mid,no,no,common,refuse
+mid,no,no,good,refuse
+mid,yes,yes,good,agree
+mid,no,yes,excellent,agree
+mid,no,yes,excellent,agree
+elder,no,yes,excellent,agree
+elder,no,yes,good,agree
+elder,yes,no,good,agree
+elder,yes,no,excellent,agree
+elder,no,no,common,refuse
